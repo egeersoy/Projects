@@ -1,2 +1,1 @@
-# Projects
-projelerimi atacağım klasörüm
+# https://yazilimtestegitimi.com/ sitesindeki Hata Raporları
